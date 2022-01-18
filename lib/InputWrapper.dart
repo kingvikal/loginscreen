@@ -23,7 +23,7 @@ class InputWrapper extends StatelessWidget {
             child: const InputField(),
           ),
           const SizedBox(
-            height: 50,
+            height: 40,
           ),
           onTap(onTap: () {
             print('Forgot password');
